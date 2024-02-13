@@ -7,7 +7,7 @@
 
 #### 后台模板发布（拉扯变形）
 
-![publish](./static/publish.gif)
+<img src="./static/publish.gif" alt="publish" width="300" height="300">
 
 #### 前台一键生图
 
@@ -19,7 +19,7 @@
 
 ## 联系方式
 
-![](./static/qrcode.png)
+<img src="./static/qrcode.png" alt="publish" width="300" height="300">
 
 [demo]: https://darkdragonblade.github.io/POD-Editor/demo
 [website]: http://www.xyqcbg.cn/index.html
