@@ -15,7 +15,6 @@ electron-preload
 public
 release
 src
-index.html
 package.json
 vite.config.js
 public
