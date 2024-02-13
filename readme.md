@@ -7,11 +7,11 @@
 
 #### 后台模板发布（拉扯变形）
 
-![](https://darkdragonblade.github.io/POD-Editor/static/publish.gif)
+![publish](https://darkdragonblade.github.io/POD-Editor/static/publish.gif)
 
 #### 前台一键生图
 
-![](https://darkdragonblade.github.io/POD-Editor/static/editor.gif)
+![editor](https://darkdragonblade.github.io/POD-Editor/static/editor.gif)
 
 ###### 注：此项目仅接受商务合作，代码所有权归本人所有
 
